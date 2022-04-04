@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bookstore-csharp", "booksto
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bonus", "Bonus\Bonus.csproj", "{43870C71-63F2-4F6C-BAD2-5B3044F0E726}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GiocandoConIlCodice", "GiocandoConIlCodice\GiocandoConIlCodice.csproj", "{900DCAB7-AADC-47B4-A2F2-160E4605A09C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{43870C71-63F2-4F6C-BAD2-5B3044F0E726}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{43870C71-63F2-4F6C-BAD2-5B3044F0E726}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{43870C71-63F2-4F6C-BAD2-5B3044F0E726}.Release|Any CPU.Build.0 = Release|Any CPU
+		{900DCAB7-AADC-47B4-A2F2-160E4605A09C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{900DCAB7-AADC-47B4-A2F2-160E4605A09C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{900DCAB7-AADC-47B4-A2F2-160E4605A09C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{900DCAB7-AADC-47B4-A2F2-160E4605A09C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
